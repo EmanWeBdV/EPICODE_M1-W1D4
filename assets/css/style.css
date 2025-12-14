@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #EAEDED;
+}
+
+main{
+    padding: 0 1em;
+}
+
+.logoContainer{
+    background-color: #232F3E;
+    height: 5rem;
+}
+
+.logoContainer img{
+    height: 3em;
+    margin: 1em; 
+}
+
+nav{
+    background-color: #354858;
+}
+
+nav ul{
+    list-style: none;
+    padding: 0.4em 0;
+    margin: 0 1em;
+}
+
+ul li{
+    display: inline;
+    margin-right: 1em;
+    color: white;
+}
+
+#fakeButton{
+    background-color: #F56600;
+    height: 2em;
+    width: auto;
+    margin: 2em 0;;
+}
+
+#fakeButton p{
+    color: white;
+    text-align: center;
+    padding: 0.4em 0;
+}
+
+#giftChristmas{
+    background-image: url(/assets/img/bg-image.png);
+    background-size: cover;
+    height: 10em;
+    margin: 2em 0;
+}
+
+#holiday {
+    text-align: center;
+    padding-top: 2.5em;
+    color: white;
+}
+
+#holiday h1{
+    margin: 0.3em 0;
+}
+
+#cardSection {
+    background-color: white;
+    padding: 1em;
+    margin: 2em 0;
+}
+
+#cardSectionTitle{
+    margin-bottom: 1em;
+}
+
+#cardSectionTitle h2, #cardSectionTitle a{
+    display: inline;
+}
+
+#cardSectionTitle h2{
+    margin-right: 0.5em;
+    font-weight: normal;
+}
+
+#cardSectionTitle a{
+    text-decoration: none;
+    font-weight: 600;
+    color: #268494;
+}
+
+#cardContainer{
+    width: 100%;
+}
+
+.card{    
+    display: inline-block;
+    height: 30em;
+    width: 22em;
+    margin: 0 1em;
+}
+
+.card img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 0.5em;
+}
+
+.categories{
+    height: auto;
+    width: 100%;
+    margin: 2em 0;
+}
+
+
+
+.imgCategories img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.subtitleImageCategories{
+    text-align: center;
+    margin-top: 0;
+}
+
+
+.subtitleImageCategories p, .subtitleImageCategories a{
+    display: inline;
+    margin-top: 0;
+}
+
+.subtitleImageCategories p{
+    margin-right: 0.5em;
+}
+
+.subtitleImageCategories a{
+    text-decoration: none;
+    font-weight: 600;
+    color: #268494;
+}
+
+#backToTop{
+    text-align: center;;
+    height: 3em;
+    background-color: #354858;
+}
+
+#backToTop a{
+    color: white;
+}
+
+.logoFooter{
+    background-color: #232F3E;
+    height: 10em;
+    text-align: center;
+}
+
+.logoFooter img{
+    width: 10em;
+    margin-top: 3em;
+}
