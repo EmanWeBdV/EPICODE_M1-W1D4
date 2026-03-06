@@ -38,8 +38,6 @@
 
 ## 🔗 Demo
 
-If you publish the project with GitHub Pages, add the link here:
-
 - **Live demo:** https://EmanWeBdV.github.io/EPICODE_M1-W1D4/
 
 ---
