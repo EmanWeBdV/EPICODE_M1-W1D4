@@ -36,18 +36,6 @@
 
 ---
 
-## ✨ Preview
-
-> Add a screenshot of the project in this section, for example:
->
-> `./assets/readme-preview.png`
-
-<p align="center">
-  <img src="./assets/readme-preview.png" alt="Preview" width="900">
-</p>
-
----
-
 ## 🔗 Demo
 
 If you publish the project with GitHub Pages, add the link here:
